@@ -1,3 +1,5 @@
+""" Main game """
+
 import game
 
 kitchen = game.Room("Kitchen")
